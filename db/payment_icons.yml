@@ -414,19 +414,35 @@
   name: siamcommercial
   label: Siam Commercial
   group: bank_transfers
--  
+-
   name: enets
   label: eNETS
   group: other
--   
+-
   name: eft_secure
   label: EFT Secure
   group: bank_transfers
-- 
+-
   name: mpesa
   label: M-Pesa
   group: wallets
-- 
+-
   name: paydirekt
   label: Paydirekt
+  group: other
+-
+  name: nachnahme
+  label: Nachnahme
+  group: other
+-
+  name: rechnung
+  label: Rechnung
+  group: other
+-
+  name: vorkasse
+  label: Vorkasse
+  group: other
+-
+  name: lastschrift
+  label: Lastschrift
   group: other
