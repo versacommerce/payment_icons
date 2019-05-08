@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 198 113.45"><defs><style>.cls-1{stroke:#878787;stroke-miterlimit:10;stroke-width:0.5px;fill:url(#Unbenannter_Verlauf_7);}.cls-2{font-size:30px;fill:#666;font-family:PTSans-BoldItalic, PT Sans;font-weight:700;font-style:italic;}.cls-3{letter-spacing:-0.04em;}.cls-4{letter-spacing:-0.03em;}</style><linearGradient id="Unbenannter_Verlauf_7" x1="99" y1="0.25" x2="99" y2="113.2" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#d6d6d6"/></linearGradient></defs><title>Element 4</title><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_1-2" data-name="Ebene 1"><rect class="cls-1" x="0.25" y="0.25" width="197.5" height="112.95" rx="6"/><text class="cls-2" transform="translate(28.48 67.37)"><tspan class="cls-3">V</tspan><tspan x="16.29" y="0">OR</tspan><tspan class="cls-4" x="53.13" y="0">K</tspan><tspan x="70.05" y="0">ASSE</tspan></text></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 38 24" style="enable-background:new 0 0 38 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);stroke:#878787;stroke-width:0.15;stroke-miterlimit:10;}
+	.st1{fill:#666666;}
+	.st2{font-family:'PTSans-BoldItalic';}
+	.st3{font-size:5.6994px;}
+</style>
+<title>Element 8</title>
+<g>
+	<g id="Ebene_1-2">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="19.0034" y1="25.7652" x2="19.0034" y2="1.9348" gradientTransform="matrix(1 0 0 -1 0 25.85)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#D6D6D6"/>
+		</linearGradient>
+		<path class="st0" d="M0.9,0.1h36.2c0.4,0,0.8,0.4,0.8,0.8v22.2c0,0.4-0.4,0.8-0.8,0.8H0.9c-0.4,0-0.8-0.4-0.8-0.8V0.9
+			C0.1,0.4,0.5,0.1,0.9,0.1z"/>
+		<text transform="matrix(1.0019 0 0 1 5.5832 14.5314)" class="st1 st2 st3">V</text>
+		<text transform="matrix(1.0019 0 0 1 8.6765 14.5314)" class="st1 st2 st3">OR</text>
+		<text transform="matrix(1.0019 0 0 1 15.6896 14.5314)" class="st1 st2 st3">K</text>
+		<text transform="matrix(1.0019 0 0 1 18.903 14.5314)" class="st1 st2 st3">ASSE</text>
+	</g>
+</g>
+</svg>
