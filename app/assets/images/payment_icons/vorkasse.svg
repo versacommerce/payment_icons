@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 38 24" style="enable-background:new 0 0 38 24;" xml:space="preserve">
+	 width="38px" height="24px" viewBox="0 0 38 24" style="enable-background:new 0 0 38 24;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:url(#SVGID_1_);stroke:#878787;stroke-width:0.15;stroke-miterlimit:10;}
-	.st1{fill:#666666;}
-	.st2{font-family:'PTSans-BoldItalic';}
-	.st3{font-size:5.6994px;}
+	.st1{fill:none;}
+	.st2{fill:#666666;}
+	.st3{font-family:'PTSans-BoldItalic';}
+	.st4{font-size:5.7354px;}
 </style>
-<title>Element 8</title>
-<g>
-	<g id="Ebene_1-2">
-		
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="19.0034" y1="25.7652" x2="19.0034" y2="1.9348" gradientTransform="matrix(1 0 0 -1 0 25.85)">
-			<stop  offset="0" style="stop-color:#FFFFFF"/>
-			<stop  offset="1" style="stop-color:#D6D6D6"/>
-		</linearGradient>
-		<path class="st0" d="M0.9,0.1h36.2c0.4,0,0.8,0.4,0.8,0.8v22.2c0,0.4-0.4,0.8-0.8,0.8H0.9c-0.4,0-0.8-0.4-0.8-0.8V0.9
-			C0.1,0.4,0.5,0.1,0.9,0.1z"/>
-		<text transform="matrix(1.0019 0 0 1 5.5832 14.5314)" class="st1 st2 st3">V</text>
-		<text transform="matrix(1.0019 0 0 1 8.6765 14.5314)" class="st1 st2 st3">OR</text>
-		<text transform="matrix(1.0019 0 0 1 15.6896 14.5314)" class="st1 st2 st3">K</text>
-		<text transform="matrix(1.0019 0 0 1 18.903 14.5314)" class="st1 st2 st3">ASSE</text>
-	</g>
-</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="19" y1="6.315789e-02" x2="19" y2="23.9368">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#D6D6D6"/>
+</linearGradient>
+<path class="st0" d="M37.1,23.9H0.9c-0.4,0-0.8-0.4-0.8-0.8V0.9c0-0.4,0.4-0.8,0.8-0.8h36.2c0.4,0,0.8,0.4,0.8,0.8v22.3
+	C37.9,23.6,37.5,23.9,37.1,23.9z"/>
+<rect x="5.5" y="10.5" class="st1" width="27.7" height="5.9"/>
+<text transform="matrix(1 0 0 1 5.5177 14.555)" class="st2 st3 st4">VORKASSE</text>
 </svg>
